@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    background: lightblue
+   }
+   h1{
+
+    font-weight: bold;
+    text-align: center;
+    color:brown;
+   }
+
+   
+  .photo {
+    float: left;
+    padding: 2%;
+    margin:2%;
+    border: 2%;
+  }
+  p{
+    color:blueviolet;
+  }
+  .link {
+    color: #1900ff; 
+} 
+.link:hover { 
+    color: #f71616; 
+}
